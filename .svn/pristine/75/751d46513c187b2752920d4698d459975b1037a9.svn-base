@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\GameProjectTwo\Projects\09_30_TestProject\Assets\Plugins\FMOD\FMOD_StudioEventEmitter.cs">
+    <Files>
+      <File FileName="..\GameProjectTwo\Projects\09_30_TestProject\Assets\AdvanceSun.cs" Line="9" Column="1" />
+      <File FileName="..\GameProjectTwo\Projects\09_30_TestProject\Assets\Teleport.cs" Line="1" Column="1" />
+      <File FileName="..\GameProjectTwo\Projects\09_30_TestProject\Assets\Scenes\Sid Scene\FieldScene\MacePickUp.cs" Line="8" Column="17" />
+      <File FileName="..\GameProjectTwo\Projects\09_30_TestProject\Assets\Editor\FMODEventEmitterInspector.cs" Line="18" Column="1" />
+      <File FileName="..\GameProjectTwo\Projects\09_30_TestProject\Assets\Plugins\FlockChild.js" Line="1" Column="1" />
+      <File FileName="..\GameProjectTwo\Projects\09_30_TestProject\Assets\Plugins\FlockController.js" Line="94" Column="5" />
+      <File FileName="..\GameProjectTwo\Projects\09_30_TestProject\Assets\Plugins\FMOD\FMOD_StudioEventEmitter.cs" Line="71" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
